@@ -1,0 +1,13 @@
+Criticality ranking,Failure Cause code,Possible cause of the failure (Failure Mode),Q (M3/hr),No liquid delivery,Pd (kg/cm2),NPSHR (m),Pm (kw)/Ct (amps),h (%),Change in Vibration,"Vib. Signature, l (mm/s)","Spike energy, gSE","Noise, dB",Mech. Seal leakage,TP (0C),TB(oC),TMoC,Disc. Cntrl. Vlv. Opening (%),Average Deviation
+FC1,FM21,Worn wearing ring,(-),,(--),NC,(++),(--),yes,1. Peak at Vane pass freq.,(+),NC,,NC,NC,,(++),
+,,SV of parameters,value, -,value,value,value,value, -,value,value, -,,,value, -,value,
+,,1st. Threshold values of parameters,value, -,value,value,value,value, -,value,value, -,,,value, -,value,value
+,,Deviation (in %) of 1st Threshold value,value, -,value,value,value,value, -,value,value,,,,value, -,value,
+,,2nd. Threshold value,value, -,value,value,value,value, -,value,value, -,,,value, -,value,
+,,Deviation (in %) of 2nd Threshold value,value, -,value,value,value,value, -,value,value, -,,,value, -,value,value
+FC2,FM22,"Worn, rusted defective bearing",NC, -,NC,NC,(++),NC,yes,1. Dominant peak at Bearing defect freq.,(++),(++),,NC,(++),NC,NC,
+,,SV of parameters,value, -,value,value,value,value,,value,value,value,,,value,,value,
+,,1st. Threshold values of parameters,value, -,value,value,value,value,,value,value,value,,,value,,value,
+,,Deviation (in %) of 1st Threshold value,value, -,value,value,value,value,,value,value,value,,,value,,value,value
+,,2nd. Threshold value,value, -,value,value,value,value,,value,value,value,,,value,,value,
+,,Deviation (in %) of 2nd Threshold value,value, -,value,value,value,value,,value,value,value,,,value,,value,value
