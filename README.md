@@ -59,7 +59,7 @@ Refer to example.csv to know about the format that must be used to run the progr
 -   Default Mode
 
 ```bash
-./cfpms-{os} --q 54.8 --pd 47 --i 18 --n 53 --lemda 4.5 --se 2.5 --cv 45 --file deviation_data.csv
+./cfpms-{os} --q 54.8 --pd 47 --i 18 --n 53 --lemda 4.5 --se 2.5 --cv 45
 ```
 
 -   User Mode
